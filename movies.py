@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    #new movie
+    (
+        "ferris bueller's day off",
+        "john hughes",
+        1986,
+        [
+            "matthew broderick",
+            "alan ruck",
+            "mia sara",
+            "jeffrey jones",
+            "jennifer gray",
+        ],
+    ),
 ]
